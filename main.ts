@@ -95,7 +95,7 @@ namespace LightHouse {
     
     
     export enum CarState {
-        //% blockId="Car_Run" block="Run"
+        //% blockId="Car_Run" block="רוץ"
         Car_Run = 1,
         //% blockId="Car_Back" block="Back"
         Car_Back = 2,
